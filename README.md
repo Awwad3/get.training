@@ -1,1 +1,1 @@
-# get.training
+# get.managment_hotel
